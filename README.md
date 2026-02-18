@@ -1,5 +1,7 @@
 # FiveM Chess Board
 
+![Chess Board](image.png)
+
 Plateau d'echecs interactif pour FiveM avec pieces animees et partie scenarisee en boucle.
 
 ## Fonctionnalites
